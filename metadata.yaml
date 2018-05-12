@@ -1,0 +1,41 @@
+_repo: Montcalm-and-Wolfe_14517
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parkman, Francis
+    alias: Parkman, F. (Francis)
+    birthdate: 1823
+    deathdate: 1893
+    gutenberg_agent_id: '510'
+    url: http://www.gutenberg.org/2009/agents/510
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Parkman
+description: The result of over forty years of passionate research, <i>Montcalm and
+  Wolfe</i> is the epic story of Europe's struggle for dominance of the New World.
+  Centuries of rivalry and greed between the great imperial powers culminated in five
+  brutal years of war; resulted in the death of both generals, Louis de Montcalm and
+  James Wolfe; and ultimately sowed the seeds of the American Revolution, fought a
+  scant seventeen years later. A brilliant work of scholarship as well as a riveting
+  read, <i>Montcalm and Wolfe</i> was thought by many, including the author, to be
+  Parkman's greatest work. It is an essential part of any military history collection.
+  The books in the Modern Library War series have been chosen by series<br>editor
+  Caleb Carr according to the significance of their subject matter, their contribution
+  to the field of military history, and their literary merit.
+gutenberg_issued: '2004-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14517'
+  lccn: '62016974'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Montcalm de Saint-Véran, Louis-Joseph, marquis de, 1712-1759'
+- !lcc 'E186'
+- !lcsh 'Wolfe, James, 1727-1759'
+- !lcsh 'United States -- History -- French and Indian War, 1754-1763 -- Campaigns'
+title: 'France and England in North America, Part VI : Montcalm and Wolfe'
+url: http://www.gutenberg.org/ebooks/14517
